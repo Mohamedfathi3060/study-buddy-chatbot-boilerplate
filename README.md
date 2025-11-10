@@ -100,6 +100,17 @@ In `frontend/src/components/ChatInterface.tsx`, find the TODO comment in the `ha
 - Send the user's message in the request body
 - Handle the response and display it in the chat interface
 
+### 3. Customize the UI (Optional)
+
+Feel free to make the chat interface look as pretty as you want! You can:
+- Customize colors, fonts, and styling
+- Add animations or transitions
+- Improve the layout and user experience
+- Add new features like message timestamps, user avatars, or emoji support
+- Experiment with Material-UI components or add your own custom styles
+
+Remember, while making it look good is fun, the main focus of this project is learning Git and GitHub workflows.
+
 ## Git and GitHub Workflow
 
 This project emphasizes proper Git and GitHub practices. Follow these steps:
